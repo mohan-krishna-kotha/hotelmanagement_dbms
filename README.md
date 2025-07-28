@@ -1,5 +1,14 @@
 # Hotel-Management-System
 
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com/)
+[![XAMPP](https://img.shields.io/badge/XAMPP-Server-orange.svg)](https://www.apachefriends.org/)
+[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-5.2+-blue.svg)](https://www.phpmyadmin.net/)
+[![DBMS](https://img.shields.io/badge/DBMS-Relational-brightgreen.svg)](#)
+
+🔗 **Live App**: [http://localhost/Hotel-Management-System/]
+
+---
+
 Hotel Management System is an important management system for any lodging and boarding enterprise to succeed in business. A fail safe and user friendly system integrated with the concepts of internet and web programming that guarantees data safety and user interactive features that builds trust among a user and the administrator which is fruitful for both the parties involved in the system. A hotel management system developed keeping these factors in mind increases the chances of a successful business substantially. 
 
 Tools Used:
